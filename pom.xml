@@ -12,7 +12,7 @@
 	<artifactId>ex-one</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ex-one</name>
-	<description>Example One without spring Security</description>
+	<description>First Example consume the Stripe's API</description>
 	<url/>
 	<licenses>
 		<license/>
